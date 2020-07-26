@@ -1,5 +1,5 @@
 # genpasswd
-A small and efficient tool for generating randomized passwords of a given length. Useful for those who don't want to use online generators.
+A small and efficient tool for generating randomized passwords of a given length. Useful for those who don't want to use online password generators.
 
 # Usage
 Run:
